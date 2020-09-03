@@ -29,24 +29,24 @@
 
 ## :computer: 操作系统
 
-- [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md)
+- [计算机操作系统](https://github.com/MCharming98/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md)
 - [Linux](https://github.com/CyC2018/CS-Notes/blob/master/notes/Linux.md)
 
 ## :cloud: 网络 
 
-- [计算机网络](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机网络%20-%20目录.md)
-- [HTTP](https://github.com/CyC2018/CS-Notes/blob/master/notes/HTTP.md)
-- [Socket](https://github.com/CyC2018/CS-Notes/blob/master/notes/Socket.md)
+- [计算机网络](https://github.com/MCharming98/CS-Notes/blob/master/notes/计算机网络%20-%20目录.md)
+- [HTTP](https://github.com/MCharming98/CS-Notes/blob/master/notes/HTTP.md)
+- [Socket](https://github.com/MCharming98/CS-Notes/blob/master/notes/Socket.md)
 
 ## :art: 面向对象
 
-- [面向对象思想](https://github.com/CyC2018/CS-Notes/blob/master/notes/面向对象思想.md)
-- [设计模式](https://github.com/CyC2018/CS-Notes/blob/master/notes/设计模式%20-%20目录.md)
+- [面向对象思想](https://github.com/MCharming98/CS-Notes/blob/master/notes/面向对象思想.md)
+- [设计模式](https://github.com/MCharming98/CS-Notes/blob/master/notes/设计模式%20-%20目录.md)
 
 ## :floppy_disk: 数据库
 
 - [数据库系统原理](https://github.com/CyC2018/CS-Notes/blob/master/notes/数据库系统原理.md)
-- [SQL](https://github.com/CyC2018/CS-Notes/blob/master/notes/SQL.md)
+- [SQL](https://github.com/MCharming98/CS-Notes/blob/master/notes/SQL.md)
 - [Leetcode-Database 题解](https://github.com/CyC2018/CS-Notes/blob/master/notes/Leetcode-Database%20题解.md)
 - [MySQL](https://github.com/CyC2018/CS-Notes/blob/master/notes/MySQL.md)
 - [Redis](https://github.com/CyC2018/CS-Notes/blob/master/notes/Redis.md)
